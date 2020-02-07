@@ -1,5 +1,5 @@
 # IOSDevWeek6
-Repo for the mandatory assignment week 6, IOS Development, Computer Science, KEA
+Repo for the mandatory assignment week 6, IOS Development, 4. semester, Computer Science, KEA
 
 ## Assignment:
 
