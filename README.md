@@ -8,3 +8,6 @@ Features:
 - Layout is nice and properly set up. 
 - Navigations using buttons.
 - You are free to add images, text and graphics
+
+
+For this assignment, I made a quick rendition of a possible IBM application.
